@@ -1,2 +1,2 @@
 # nature
-This is a demo project.
+This is a demo project. Developed by Rupali Sharnangat.
