@@ -1,2 +1,2 @@
 # nature
-This is a study project
+This is a demo project.
